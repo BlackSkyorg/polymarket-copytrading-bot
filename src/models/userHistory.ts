@@ -31,7 +31,6 @@ const positionSchema = new Schema({
     oppositeAsset: { type: String, required: false },
     endDate: { type: String, required: false },
     negativeRisk: { type: Boolean, required: false },
-        signer: { type: String, required: false },
 
 });
 
