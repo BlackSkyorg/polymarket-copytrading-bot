@@ -36,13 +36,15 @@ The Polymarket Copy Trading Bot continuously monitors target wallets and replica
 
 ## 📊 Trading History & Performance
 
-The bot has demonstrated profitable performance in testing. Below is a screenshot showing the profit/loss progression over a test period:
-### Updated profit : 3 / 11 / 2026
 
 
 #### target address : https://polymarket.com/@k9Q2mX4L8A7ZP3R
 
 
+
+
+The bot has demonstrated profitable performance in testing. Below is a screenshot showing the profit/loss progression over a test period:
+### Updated profit : 3 / 11 / 2026
 
 
 <img width="508" height="244" alt="image" src="https://github.com/user-attachments/assets/76fbdbe7-e205-4066-bb94-1a3f9ed75309" />
