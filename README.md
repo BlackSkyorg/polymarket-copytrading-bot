@@ -4,7 +4,7 @@ A **production-grade, real-time copy trading system** for **Polymarket**, design
 
 ---
 
-## 💝 Support the Project
+##  Support the Project
 
 If you find this bot helpful and profitable, we'd greatly appreciate your support! Consider sending 10% of your profits to help maintain and improve this project:
 
@@ -355,14 +355,6 @@ This copy trading bot was developed as part of a comprehensive Polymarket tradin
 * Automatic retry mechanisms for failed orders
 * MongoDB-based trade history tracking
 * Support for multiple market types
-
----
-
-## Contact & Support
-
-For deployment support, custom integrations, or professional inquiries:
-
-- **Telegram**: [@blacksky](https://t.me/blacksky_jose)
 
 ---
 
